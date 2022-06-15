@@ -1,9 +1,9 @@
 
-global.linkGC = ['https://chat.whatsapp.com/GQfybywcgb3AzNBP1zAs0h', ''] // ganti jadi group lu
-global.owner = ['62895327934887','6289526416801','48699515524'] // Put your number here //owner eval
-global.kontak = ['62895327934887','6289526416801','48699515524'] //Ketika ada yang ngetik #owner
-global.mods = ['48699515524','62895327934887','6289526416801'] // Want some help?
-global.prems = ['62895327934887','6289526416801','48699515524'] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY', ''] // ganti jadi group lu
+global.owner = ['6285785694474','6285785694474','6285785694474'] // Put your number here //owner eval
+global.kontak = ['6285785694474','6285785694474','6285785694474'] //Ketika ada yang ngetik #owner
+global.mods = ['6285785694474','6285785694474','6285785694474'] // Want some help?
+global.prems = ['6285785694474','6285785694474','6285785694474'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -58,8 +58,8 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'GAK ADA :)'
-namayt = 'https://www.youtube.com/c/HokenBeusz'
+namaig = 'https://Instagram.com/itsme_nitsu'
+namayt = 'https://www.youtube.com/c/I AM NITSU'
 kasihcaption = `udah dikasih bilang apa?`
 namakontak1 = 'ᴏᴡɴᴇʀ ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
 namakontak2 = 'ʙᴏᴛ ㉿𝐫𝐢𝐳𝐲𝐧 ×፝֟͜×'
