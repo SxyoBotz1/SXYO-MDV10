@@ -61,7 +61,7 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'https://Instagram.com/itsme_nitsu'
 namayt = 'https://www.youtube.com/c/I AM NITSU'
 kasihcaption = `udah dikasih bilang apa?`
-namakontak1 = 'ᴏᴡɴᴇʀ ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
+namakontak1 = 'ᴏᴡɴᴇʀ ᴹᴿJaka ×፝֟͜× ×፝֟͜×'
 namakontak2 = 'ʙᴏᴛ ㉿𝐫𝐢𝐳𝐲𝐧 ×፝֟͜×'
 namakontak3 = 'ᴘᴀʀᴛɴᴇʀ ʙᴏᴛ ᯤ ᴋʀɪᴢʏɴ'
 //kasihcaption = `udah dikasih bilang apa?`
@@ -75,10 +75,10 @@ global.botwm = '㉿𝐫𝐢𝐳𝐲𝐧 ×፝֟͜×'
 global.watermark = '㉿𝐫𝐢𝐳𝐲𝐧 ×፝֟͜×'
 
 //yyy
-bc = '㉿𝐫𝐢𝐳𝐲𝐧 ×፝֟͜×' 
-footer = '㉿𝐫𝐢𝐳𝐲𝐧 ×፝֟͜×'
-namabot = '㉿𝐫𝐢𝐳𝐲𝐧 ×፝֟͜×'
-namalu = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
+bc = '㉿Zerotwo ×፝֟͜×' 
+footer = '㉿zerotwo ×፝֟͜×'
+namabot = '㉿zerotwo ×፝֟͜×'
+namalu = 'Jaka ×፝֟͜×'
 
 // 
 wait = '⏳ 𝙒𝘼𝙄𝙏, 𝙎𝙀𝘿𝘼𝙉𝙂 𝘿𝙄𝙋𝙍𝙊𝙎𝙀𝙎...'
